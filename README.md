@@ -3,9 +3,9 @@ JSTL MySQL Task Manager example. Task Manager displays current task list from My
 DataSource is defined at webapp/META-INF/context.xml
 
 # environment
--JDK 1.7
--EclipseEE Luna
--Tomcat 1.7
+* JDK 1.7
+* EclipseEE Luna
+* Tomcat 1.7
 
 # Special notes
 Ths port on tomcat is defined as 9080. You should change to your own localhost:[port]
